@@ -1,7 +1,5 @@
 fastapi
 uvicorn
 pandas
-scikit-learn
 catboost
 pydantic
-numpy
